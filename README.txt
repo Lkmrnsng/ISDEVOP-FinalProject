@@ -24,5 +24,5 @@ npm install bcrypt
 ===========RUN COMMAND============
 node app.js
 
-============GITHUB LINK============
+============MAIN GITHUB LINK============
 https://github.com/megan-ryleneryl/ITISDEV.git
